@@ -5,7 +5,7 @@ The code in this directory belongs to STC.
 I didn't modify the source, only converted it from GB2312 to UTF-8 with UNIX line terminators.
 
 | Filename | Description |
----
+| --- | --- |
 | 01-demo.c | ADC (interrupt) |
 | 02-demo.c | ADC (query) |
 | 03-demo.c | Use 9th ADC inside BandGap voltage to calculate the operating voltage Vcc |
